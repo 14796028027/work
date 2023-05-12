@@ -16,7 +16,7 @@ login_url = "https://passport.damai.cn/login?ru=https%3A%2F%2Fwww.damai.cn%2F"
 target_url = "https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.4c064d15k2QIot&id=714876827958&clicktitle=%E3%80%8C%E4%B9%90%E8%85%BE%E6%BC%94%E8%89%BA%C2%B7%E7%B2%A4%E8%AF%AD%E9%9F%B3%E4%B9%90%E8%AE%A1%E5%88%92%E3%80%8D%20%E5%86%9C%E5%A4%AB%E5%98%BB%E5%93%88%E5%98%BB%E5%98%BB%E5%93%88%E5%93%88%E6%BC%94%E5%94%B1%E4%BC%9A"
 
 
-#请求头w
+#请求头w3
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 
 
