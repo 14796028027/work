@@ -1,2 +1,0 @@
-#ssdddddd
-print()
